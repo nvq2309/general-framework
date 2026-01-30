@@ -1,0 +1,39 @@
+# Progress log entry (append-only)
+
+Date:
+Task ID:
+Agent:
+
+## Preflight
+- Files read:
+- Planned edits:
+- Verification commands planned:
+
+## Work performed
+- Summary of changes:
+- Files changed:
+
+## Verification
+Commands run (copy/paste):
+- `...`
+
+Results:
+- Pass/fail:
+- Output excerpt:
+
+## Acceptance tests updated
+- AT IDs changed to passes=true:
+- Evidence location:
+
+## Notes / learnings
+- ...
+
+## Next steps
+- ...
+
+
+---
+
+Multi-agent note:
+- If multiple agents are active, write evidence to `.agent-workflow/progress/<task-id>.<agent>.md`.
+- Orchestrator merges key evidence into `.agent-workflow/Progress.txt`.

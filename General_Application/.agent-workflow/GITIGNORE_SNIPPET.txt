@@ -1,0 +1,5 @@
+# Add to your repo .gitignore (optional, for personal overrides)
+.agent-workflow/Operator_Profile.md
+.agent-workflow/Conversation_Policy.local.md
+.agent-workflow/*.local.md
+.agent-workflow/workflows/**/Progress.txt

@@ -1,0 +1,17 @@
+{
+  "tasks": [],
+  "meta": {
+    "project": "YourProject",
+    "last_updated": "2026-01-26"
+  },
+  "rules": {
+    "status_values": [
+      "planned",
+      "working_on",
+      "blocked",
+      "completed",
+      "cancelled"
+    ],
+    "lock_rule": "Only one agent per task with status=working_on"
+  }
+}

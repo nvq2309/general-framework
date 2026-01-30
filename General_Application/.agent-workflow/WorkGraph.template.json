@@ -1,0 +1,17 @@
+{
+  "tasks": [
+    {
+      "id": "WG01",
+      "title": "Define interfaces for Slice S01",
+      "owner_agent": "prometheus",
+      "status": "planned",
+      "depends_on": [],
+      "allowed_paths": [
+        "src/types/**",
+        "docs/**"
+      ],
+      "notes": "",
+      "verify_cmds": []
+    }
+  ]
+}
